@@ -6,9 +6,8 @@ MSCS Student at Northeastern University
 
 * 🌍  Based in Portland, ME
 * ✉️  You can contact me at [corcoran.al@northeastern.edu](mailto:corcoran.al@northeastern.edu)
-* 🚀  I'm currently working on a web app to help navigate Portland's tech companies and scene
 * 🧠  I'm currently learning Web Dev
-* ⚡  Painting and sewing to balance computer time
+* ⚡  Paint/sew to balance computer time
 
 
 About

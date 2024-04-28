@@ -1,4 +1,6 @@
 ### Hi there 👋
+## My name is Alex
+### MSCS Student at The Roux Institute in Portland,ME
 
 <!--
 **AlexCorcoran/AlexCorcoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

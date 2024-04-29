@@ -4,10 +4,9 @@ Hi 👋 My name is Alex
 MSCS Student at Northeastern University
 ---------------------------------------
 
-* 🌍  Based in Portland, ME
-* ✉️  You can contact me at [corcoran.al@northeastern.edu](mailto:corcoran.al@northeastern.edu)
-* 🧠  I'm currently learning Web Dev
-* ⚡  Paint/sew to balance computer time
+* Based in Portland, ME
+* You can contact me at [corcoran.al@northeastern.edu](mailto:corcoran.al@northeastern.edu)
+* I'm currently learning Web Dev
 
 
 About

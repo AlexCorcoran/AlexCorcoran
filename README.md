@@ -1,9 +1,6 @@
 Hi 👋 My name is Alex
 =====================
 
-Recent MSCS Graduate at Northeastern University
----------------------------------------
-
 * Based in Portland, ME
 * You can contact me at [corcoran.al@northeastern.edu](mailto:corcoran.al@northeastern.edu)
 

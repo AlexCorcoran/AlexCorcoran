@@ -1,12 +1,11 @@
 Hi 👋 My name is Alex
 =====================
 
-MSCS Student at Northeastern University
+Recent MSCS Graduate at Northeastern University
 ---------------------------------------
 
 * Based in Portland, ME
 * You can contact me at [corcoran.al@northeastern.edu](mailto:corcoran.al@northeastern.edu)
-* I'm currently learning about Data Management and Processing
 
 
 About

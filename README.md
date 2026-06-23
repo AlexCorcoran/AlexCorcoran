@@ -7,7 +7,7 @@ Hi 👋 My name is Alex
 
 About
 ---------------------------------------
-I have an educational background in English Literature, Visual Art, and Graphic Design and am currently pursuing a Master’s in Computer Science at The Roux Institute. My professional journey spans operations, e-commerce, and customer service within the retail and wholesale sectors. Passionate about Human-Computer Interaction, databases, and software engineering, I am focused on creating visually engaging, functional, and user-friendly systems. 
+I have an educational background in English Literature, Visual Art, and Graphic Design and recently graduated with a Master of Science in Computer Science from Northeastern University at the Roux Institute. My professional journey spans operations, e-commerce, and customer service within the retail and wholesale sectors. Passionate about Human-Computer Interaction, databases, and software engineering, I am focused on creating visually engaging, functional, and user-friendly systems. 
 
 ### Skills
 
